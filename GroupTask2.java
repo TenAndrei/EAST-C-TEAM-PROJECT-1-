@@ -1,6 +1,6 @@
 package groupTask;
 
-public class GroupTask2 {
+public class GroupTask1_2_3 {
 
 	public static void main(String[] args) {
 
